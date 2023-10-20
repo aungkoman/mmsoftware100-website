@@ -1,5 +1,12 @@
 # Gatsby Portfolio Website
 
+## Python မကိုက်တာနဲ့ တိုင်တွေပတ်နေပြီ။
+
+```bash
+npm ERR! gyp verb check python checking for Python executable "python2" in the PATH
+npm ERR! gyp verb `which` failed Error: not found: python2
+```
+
 This repo contains a static website written with [GatsbyJS](https://www.gatsbyjs.org/), integrated with content coming from [DatoCMS](https://www.datocms.com).
 
 ![Preview](preview.png)
